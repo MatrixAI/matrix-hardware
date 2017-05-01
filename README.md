@@ -11,3 +11,5 @@ report and submit to the Matrix Hardware database.
 * http://www.techytalk.info/other-projects/sql-computer-hardware-database/
 * https://www.howtoforge.com/dmidecode-finding-out-hardware-details-without-opening-the-computer-case
 * http://www.cpu-world.com/
+* https://wikiedvi.com/
+* https://fccid.io/
